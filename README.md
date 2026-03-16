@@ -4,7 +4,7 @@
 I am a Computer Science student passionate about building real-world tech solutions.<br>Currently learning Full Stack Development and GenAI.<br>
 
 
-## 🌐 Socials:
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukesh-chaudhari-8730932b6)
 
