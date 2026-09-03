@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 I am a Computer Science student passionate about building real-world tech solutions.<br>
-Currently learning Full Stack Development and GenAI.<br>
+Interested in Full Stack Development and GenAI.<br>
 
 ## 🌐 Socials:
 
